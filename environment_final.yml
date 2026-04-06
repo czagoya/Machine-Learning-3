@@ -1,0 +1,17 @@
+name: machine_learning_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib=3.9.2
+  - numpy=2.1.2
+  - pandas=2.2.3
+  - python=3.10.13
+  - scikit-learn=1.5.2
+  - imbalanced-learn=0.12.3
+  - seaborn=0.13.2
+  - statsmodels
+  - ipykernel
+  - openpyxl
+  - notebook=6.5.6
+  - pip
